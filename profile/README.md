@@ -1,8 +1,5 @@
 # Statistical Internship
 ## Multivariate Analysis of Climatological and Hydrological Low Water Drivers in Bavaria
-<p align="center">
-<img src="attic/images.png" width="100" height="100" class="center">
-</p>
 
 ## Data
 
